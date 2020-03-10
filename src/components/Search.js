@@ -3,7 +3,7 @@ import { Link, useHistory } from "react-router-dom";
 import SearchIcon from "@material-ui/icons/Search";
 import Paper from "@material-ui/core/Paper";
 import Grid from "@material-ui/core/Grid";
-// (buggy commit for cd) import InputBase from "@material-ui/core/InputBase";
+import InputBase from "@material-ui/core/InputBase";
 import IconButton from "@material-ui/core/IconButton";
 import "../styles/Search.scss";
 import Button from "@material-ui/core/Button";
